@@ -1,0 +1,156 @@
+# https://ops.fhwa.dot.gov/511/
+# https://ops.fhwa.dot.gov/511/locations/location_numbers.htm
+
+# Alaska
+511,+18662827577,02
+
+# Arizona
+511,+18884117623,04
+
+# California
+
+## Bay Area (https://511.org/about/faq/511-phone-service)
+## Alameda, Contra Costa, Marin, Napa, Solano, Sonoma, San Francisco, San Mateo, Santa Clara County
+511,+18885004636,06001
+511,+18885004636,06013
+511,+18885004636,06041
+511,+18885004636,06055
+511,+18885004636,06095
+511,+18885004636,06097
+511,+18885004636,06075
+511,+18885004636,06081
+511,+18885004636,06085
+
+## Los Angeles (https://go511.com/Home/FAQ#511%20on%20the%20Phone)
+## Los Angeles, Orange, Ventura
+511,+18772246511,06037
+511,+18772246511,06059
+511,+18772246511,06111
+
+## Sacramento
+511,+18665118747,06067
+
+## San Diego
+511,+18002154551,06073
+
+## Inland Empire (http://www.ie511.org/about)
+## Riverside, San Bernardino
+511,+18776943511,06065
+511,+18776943511,06071
+
+## San Luis Obispo
+511,+18669288923,06079
+
+# Colorado
+511,+13036391111,08
+
+# Florida
+511,+18665113352,12
+
+# Georgia
+511,+18776942511,13
+
+# Idaho
+511,+18884327623,16
+
+# Indiana
+511,+18002617623,18
+
+# Iowa
+511,+18002881047,19
+
+# Kansas
+511,+18665115368,20
+
+# Kentucky
+511,+18667373767,21
+
+# Louisiana
+511,+18887623511,22
+
+# Maryland
+511,+18554663511,24
+
+# Massachusetts
+511,+16179865511,25
+
+# Minnesota
+511,+18005420220,27
+
+# Mississippi
+511,+18665216368,28
+
+# Montana
+511,+18002267623,30
+
+# Nebraska
+511,+18009069069,31
+
+# Nevada
+511,+18776876237,32
+
+# New Jersey
+511,+18665116538,34
+
+# New Mexico
+511,+18004324269,35
+
+# New York
+511,+18884651169,36
+
+# North Carolina
+511,+18775114662,37
+
+# North Dakota
+511,+18666963511,38
+
+# Ohio
+511,+18555116446,39
+
+# Oregon
+511,+15035882941,41
+
+# Pennsylvania
+511,+18775117366,42
+
+# South Carolina
+511,+18775114672,45
+
+#South Dakota
+511,+18666973511,46
+
+# Tennessee
+511,+18772440065,47
+
+# Texas
+
+## DFW
+## Collin, Dallas, Denton, Ellis, Johnson, Kaufman, Parker, Rockwall, Tarrant, Wise
+511,+18775113255,48085
+511,+18775113255,48113
+511,+18775113255,48121
+511,+18775113255,48139
+511,+18775113255,48251
+511,+18775113255,48257
+511,+18775113255,48367
+511,+18775113255,48397
+511,+18775113255,48439
+511,+18775113255,48497
+
+# Utah
+511,+18665118824,49
+
+# Virginia
+511,+18005784111,51
+
+# Washington
+511,+18006957623,53
+
+# West Virginia
+511,+18779827623,54
+
+# Wisconsin
+511,+18665119472,55
+
+# Wyoming
+511,+18889967623,56
