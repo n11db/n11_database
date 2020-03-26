@@ -1,2 +1,9 @@
+
+# Pennsylvania (http://www.puc.pa.gov/telecom/pdf/711_Implementation_Order020200.pdf, page 7)
+711,+18888951197,42
+
 # Wisconsin (https://psc.wi.gov/Pages/ForUtilities/Telecom/N11Translations.aspx)
 711,+18883502565,55
+
+# Wyoming (https://ecfsapi.fcc.gov/file/10328742025088/WY%20Recertification%202018.pdf page 75)
+711,+18666746832,56
